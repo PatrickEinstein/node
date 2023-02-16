@@ -18,7 +18,7 @@ app.get('/' , (req, res) =>{
 const collection = {
     people : [
         {
-            name: "Olalekan"
+            name: "Kwam1"
         }
     ]
 }
